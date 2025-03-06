@@ -1,0 +1,4 @@
+{
+    "watch": ["packages/backend", "packages/shared-utils"],
+    "ext": "js,mjs,json"
+  }
