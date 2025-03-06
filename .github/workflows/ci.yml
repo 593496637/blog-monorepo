@@ -50,4 +50,4 @@ jobs:
       - name: Check backend
         run: |
           cd packages/backend
-          node index.js --version # 假设你加个简单的版本检查，或其他构建步骤
+          pnpm start:prod
